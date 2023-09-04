@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/Qayyax/workit-landing-page)
-- Live Site URL: [Deployed Site](workitlandingpage2.netlify.app)
+- Live Site URL: [Deployed Site](https://workitlandingpage2.netlify.app/)
 
 ## My process
 
